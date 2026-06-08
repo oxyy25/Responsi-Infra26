@@ -1,3 +1,7 @@
+# Nama : M.Fawaz Akbar
+# NIM  : H1H024046
+# Shift Baru : B
+# Shift Lama : B
 # Analisis Perbaikan
 
 ## Permasalahan 1
